@@ -1,0 +1,14 @@
+# Local R/RStudio files
+.Rhistory
+.RData
+.Rproj.user/
+.Renviron
+*.Rproj
+.DS_Store
+
+# Deployment credentials and account metadata
+rsconnect/
+
+# Logs, temporary files and generated output
+*.log
+.Rproj.user

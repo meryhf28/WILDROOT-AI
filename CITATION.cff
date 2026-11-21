@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite the versioned software release used in your work."
+title: "WILDROOT AI: A Rule-Based Agronomic Decision-Support Prototype in R Shiny"
+type: software
+authors:
+  - family-names: "Hernández-Fernández"
+    given-names: "María"
+version: "0.1.0-rc1"
+repository-code: "https://github.com/meryhf28/wildroot-ai"
+url: "https://wildrootai.shinyapps.io/WILDROOT_AI/"
+abstract: "Interactive R Shiny prototype presenting rule-based conceptual formulations of beneficial yeasts for agricultural use; illustrative, non-validated outputs."
+keywords:
+  - R Shiny
+  - microbiology
+  - agronomic decision support
+  - beneficial yeasts
+  - research software
